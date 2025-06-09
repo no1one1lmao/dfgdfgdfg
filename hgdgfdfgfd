@@ -20,7 +20,6 @@
 
 queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/no1one1lmao/dfgdfgdfg/refs/heads/main/hgdgfdfgfd"))()')
 
-if game.PlaceId == 17625359962 then
 	local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 	
 	local Window = Rayfield:CreateWindow({
@@ -1175,4 +1174,3 @@ if game.PlaceId == 17625359962 then
 	})
 	
 	Rayfield:LoadConfiguration()
-end
