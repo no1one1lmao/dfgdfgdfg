@@ -1,3 +1,23 @@
+-- ███████╗ ██████╗██████╗ ██╗██████╗ ████████╗███████╗██████╗ ███████╗██╗  ██╗██╗   ██╗██████╗ 
+-- ██╔════╝██╔════╝██╔══██╗██║██╔══██╗╚══██╔══╝██╔════╝██╔══██╗██╔════╝██║  ██║██║   ██║██╔══██╗
+-- ███████╗██║     ██████╔╝██║██████╔╝   ██║   █████╗  ██████╔╝███████╗███████║██║   ██║██████╔╝
+-- ╚════██║██║     ██╔══██╗██║██╔═══╝    ██║   ██╔══╝  ██╔══██╗╚════██║██╔══██║██║   ██║██╔══██╗
+-- ███████║╚██████╗██║  ██║██║██║        ██║   ███████╗██║  ██║███████║██║  ██║╚██████╔╝██████╔╝
+-- ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
+
+-- Youtube: https://www.youtube.com/@ScriptersHub 
+
+-- Rivals open source script with tons of features, such as:
+-- Aimbot
+-- ESP
+-- WalkSpeed/JumpPower changer
+-- Fly, Noclip, Infinite Jump
+-- Flashbang effect remover
+-- Smoke clouds remover
+-- and lots of more!
+
+-- If you take some parts of the script, at least credit them      
+
 queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/no1one1lmao/dfgdfgdfg/refs/heads/main/hgdgfdfgfd"))()')
 
 if game.Placeid == 17625359962 then
