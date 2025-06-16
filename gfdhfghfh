@@ -1,3 +1,5 @@
+task.wait(10)
+
 queue_on_teleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/no1one1lmao/dfgdfgdfg/refs/heads/main/gfdhfghfh')()")
 
 local Settings = {
